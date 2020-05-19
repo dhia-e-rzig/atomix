@@ -1,3 +1,5 @@
+->RefactoringNumber->1235273<-DecreaseMethodSecurity(io.atomix.cluster.messaging.impl.NettyMessagingService.SslClientChannelInitializer;;[];[initChannel])
+<-endRefactoring marker->
 /*
  * Copyright 2015-present Open Networking Foundation
  *

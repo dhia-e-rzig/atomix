@@ -1,3 +1,7 @@
+->RefactoringNumber->1235265<-MoveField(io.atomix.core.transaction.impl.DelegatingTransactionalMap;io.atomix.core.transaction.impl.DelegatingTransactionalSet;[map];[])
+->RefactoringNumber->1235267<-ExtractClass(io.atomix.core.transaction.impl.DelegatingTransactionalSet;Class_3;[];[sync])
+->RefactoringNumber->1235274<-MoveField(io.atomix.protocols.raft.RaftTest.TestPrimitiveType.TestPrimitive.TestPrimitiveClient.TestPrimitiveService.TestPrimitiveImpl.TestPrimitiveServiceImpl;io.atomix.core.transaction.impl.DelegatingTransactionalSet;[expire];[])
+<-endRefactoring marker->
 /*
  * Copyright 2019-present Open Networking Foundation
  *

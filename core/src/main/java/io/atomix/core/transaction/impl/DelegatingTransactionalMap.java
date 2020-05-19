@@ -1,3 +1,11 @@
+->RefactoringNumber->1235262<-MoveField(io.atomix.cluster.discovery.MulticastDiscoveryProvider.Type;io.atomix.core.transaction.impl.DelegatingTransactionalMap;[LOGGER];[])
+->RefactoringNumber->1235263<-ExtractClass(io.atomix.core.transaction.impl.DelegatingTransactionalMap;Class_1;[];[get])
+->RefactoringNumber->1235264<-DecreaseFieldSecurity(io.atomix.core.transaction.impl.DelegatingTransactionalMap;;[map];[])
+->RefactoringNumber->1235265<-MoveField(io.atomix.core.transaction.impl.DelegatingTransactionalMap;io.atomix.core.transaction.impl.DelegatingTransactionalSet;[map];[])
+->RefactoringNumber->1235275<-MoveMethod(io.atomix.core.transaction.impl.DelegatingTransactionalMap;io.atomix.cluster.messaging.MessagingService.Builder;[];[put])
+->RefactoringNumber->1235280<-MoveMethod(io.atomix.core.transaction.impl.DelegatingTransactionalMap;io.atomix.protocols.backup.partition.PrimaryBackupPartitionGroupConfig;[];[protocol])
+->RefactoringNumber->1235282<-MoveMethod(io.atomix.core.transaction.impl.DelegatingTransactionalMap;io.atomix.protocols.raft.protocol.CommandResponse.Builder;[];[remove1])
+<-endRefactoring marker->
 /*
  * Copyright 2019-present Open Networking Foundation
  *

@@ -1,3 +1,6 @@
+->RefactoringNumber->1240895<-ExtractSuperClass(io.atomix.agent.AtomixAgent;Class_1;[];[main])
+->RefactoringNumber->1240912<-MoveMethod(io.atomix.primitive.partition.impl.PrimaryElectorOperations.ElectorOperation.PartitionOperation.GetTerm.Enter;io.atomix.agent.AtomixAgent;[];[toString])
+<-endRefactoring marker->
 /*
  * Copyright 2017-present Open Networking Foundation
  *

@@ -1,3 +1,5 @@
+->RefactoringNumber->1240914<-MoveMethod(io.atomix.protocols.raft.test.RaftFuzzTest;io.atomix.core.multiset.impl.DistributedMultisetProxy.DistributedMultisetElementSet;[];[randomBoolean])
+<-endRefactoring marker->
 /*
  * Copyright 2017-present Open Networking Foundation
  *

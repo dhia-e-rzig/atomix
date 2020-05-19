@@ -1,3 +1,5 @@
+->RefactoringNumber->1240904<-MoveMethod(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;io.atomix.core.value.impl.DefaultAtomicValueServiceTest;[];[testSendAndReceiveWithExecutor])
+<-endRefactoring marker->
 /*
  * Copyright 2018-present Open Networking Foundation
  *

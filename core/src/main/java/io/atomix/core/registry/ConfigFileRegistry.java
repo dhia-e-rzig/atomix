@@ -1,3 +1,5 @@
+->RefactoringNumber->1240906<-MoveField(io.atomix.core.registry.ConfigFileRegistry.Builder;io.atomix.protocols.raft.protocol.AbstractRaftResponse.Builder;[configFiles];[])
+<-endRefactoring marker->
 /*
  * Copyright 2018-present Open Networking Foundation
  *

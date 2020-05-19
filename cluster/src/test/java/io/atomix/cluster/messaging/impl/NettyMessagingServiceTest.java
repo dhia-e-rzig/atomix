@@ -1,3 +1,10 @@
+->RefactoringNumber->1240896<-IncreaseMethodSecurity(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;;[];[testSendTimeout])
+->RefactoringNumber->1240903<-EncapsulateField(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;;[ep1];[])
+->RefactoringNumber->1240904<-MoveMethod(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;io.atomix.core.value.impl.DefaultAtomicValueServiceTest;[];[testSendAndReceiveWithExecutor])
+->RefactoringNumber->1240907<-MoveField(io.atomix.rest.impl.VertxRestService.Builder;io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;[DEFAULT_HOST];[])
+->RefactoringNumber->1240910<-ExtractSuperClass(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;Class_5;[IP_STRING|netty2];[testSendAsync])
+->RefactoringNumber->1240911<-ExtractSuperClass(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;Class_6;[LOGGER];[setUp])
+<-endRefactoring marker->
 /*
  * Copyright 2017-present Open Networking Foundation
  *

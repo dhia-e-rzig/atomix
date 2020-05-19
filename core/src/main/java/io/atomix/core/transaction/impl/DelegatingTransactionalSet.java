@@ -1,3 +1,5 @@
+->RefactoringNumber->1232417<-MoveField(io.atomix.primitive.proxy.impl.DefaultProxySession.ServiceProxy.ServiceProxyHandler;io.atomix.core.transaction.impl.DelegatingTransactionalSet;[future];[])
+<-endRefactoring marker->
 /*
  * Copyright 2019-present Open Networking Foundation
  *

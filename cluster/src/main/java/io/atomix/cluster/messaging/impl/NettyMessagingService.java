@@ -1,3 +1,6 @@
+->RefactoringNumber->1232405<-PullUpMethod(io.atomix.cluster.messaging.impl.NettyMessagingService.SslClientChannelInitializer.SslServerChannelInitializer.BasicClientChannelInitializer.BasicServerChannelInitializer;io.atomix.cluster.messaging.impl.ChannelInitializer;[];[initChannel])
+->RefactoringNumber->1232416<-DecreaseMethodSecurity(io.atomix.cluster.messaging.impl.NettyMessagingService.SslClientChannelInitializer.SslServerChannelInitializer.BasicClientChannelInitializer;;[];[initChannel])
+<-endRefactoring marker->
 /*
  * Copyright 2015-present Open Networking Foundation
  *

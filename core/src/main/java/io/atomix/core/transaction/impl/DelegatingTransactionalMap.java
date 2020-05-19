@@ -1,3 +1,6 @@
+->RefactoringNumber->1232398<-ExtractSuperClass(io.atomix.core.transaction.impl.DelegatingTransactionalMap;Class_3;[];[get|protocol|sync])
+->RefactoringNumber->1232408<-ExtractSuperClass(io.atomix.core.transaction.impl.DelegatingTransactionalMap;Class_7;[];[])
+<-endRefactoring marker->
 /*
  * Copyright 2019-present Open Networking Foundation
  *

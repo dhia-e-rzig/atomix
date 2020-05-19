@@ -1,3 +1,5 @@
+->RefactoringNumber->1232397<-IncreaseMethodSecurity(io.atomix.cluster.protocol.SwimMembershipProtocol.Type.State.ImmutableMember.SwimMember;;[];[getUpdated])
+<-endRefactoring marker->
 /*
  * Copyright 2018-present Open Networking Foundation
  *

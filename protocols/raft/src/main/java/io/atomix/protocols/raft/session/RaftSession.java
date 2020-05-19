@@ -1,3 +1,5 @@
+->RefactoringNumber->1238255<-MoveField(io.atomix.protocols.raft.session.RaftSession.EventHolder;io.atomix.agent.AtomixAgentTest;[events];[])
+<-endRefactoring marker->
 /*
  * Copyright 2015-present Open Networking Foundation
  *

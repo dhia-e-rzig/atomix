@@ -1,3 +1,6 @@
+->RefactoringNumber->1238256<-MoveMethod(io.atomix.protocols.backup.protocol.BackupResponse;io.atomix.core.value.impl.DefaultAtomicValueServiceTest;[];[error])
+->RefactoringNumber->1238270<-MoveMethod(io.atomix.core.value.impl.DefaultAtomicValueServiceTest;io.atomix.protocols.raft.test.protocol.LocalRaftClientProtocol;[];[testSnapshot])
+<-endRefactoring marker->
 /*
  * Copyright 2018-present Open Networking Foundation
  *

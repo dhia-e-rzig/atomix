@@ -1,3 +1,6 @@
+->RefactoringNumber->1238253<-PullUpField(io.atomix.protocols.raft.test.RaftFuzzTest.TestPrimitiveType.FuzzStateMachine;io.atomix.primitive.service.AbstractPrimitiveService;[map];[])
+->RefactoringNumber->1238272<-ExtractClass(io.atomix.protocols.raft.test.RaftFuzzTest.TestPrimitiveType.FuzzStateMachine;Class_8;[map];[backup|configure|put])
+<-endRefactoring marker->
 /*
  * Copyright 2017-present Open Networking Foundation
  *

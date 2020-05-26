@@ -1,3 +1,5 @@
+->RefactoringNumber->1249045<-MoveField(io.atomix.cluster.messaging.impl.DefaultClusterEventService.InternalMessage.Type.InternalTopic.TopicIterator.InternalSubscriber;io.atomix.protocols.raft.test.RaftFuzzTest.TestPrimitiveType.FuzzStateMachine;[subscriptions];[])
+<-endRefactoring marker->
 /*
  * Copyright 2017-present Open Networking Foundation
  *

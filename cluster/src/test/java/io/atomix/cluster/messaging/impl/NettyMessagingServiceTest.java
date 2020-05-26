@@ -1,3 +1,8 @@
+->RefactoringNumber->1249028<-MoveField(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;io.atomix.core.registry.ConfigFileRegistryTest;[ep1];[])
+->RefactoringNumber->1249036<-ExtractSubClass(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;Class_4;[netty1];[])
+->RefactoringNumber->1249048<-MoveField(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;net.jodah.concurrentunit.ConcurrentTestCase;[ep2];[])
+->RefactoringNumber->1249051<-MoveMethod(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;io.atomix.protocols.raft.protocol.QueryResponse.Builder;[];[testSendAutoTimeout])
+<-endRefactoring marker->
 /*
  * Copyright 2017-present Open Networking Foundation
  *

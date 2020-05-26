@@ -1,3 +1,5 @@
+->RefactoringNumber->1249028<-MoveField(io.atomix.cluster.messaging.impl.NettyMessagingServiceTest;io.atomix.core.registry.ConfigFileRegistryTest;[ep1];[])
+<-endRefactoring marker->
 /*
  * Copyright 2018-present Open Networking Foundation
  *

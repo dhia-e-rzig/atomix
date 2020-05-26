@@ -1,3 +1,7 @@
+->RefactoringNumber->1249031<-ExtractSubClass(io.atomix.agent.AtomixAgent;Class_1;[];[createLogger|createParser|parseMemberId])
+->RefactoringNumber->1249049<-ExtractClass(io.atomix.agent.AtomixAgent;Class_6;[];[parseAddress])
+->RefactoringNumber->1249050<-ExtractSubClass(io.atomix.agent.AtomixAgent;Class_7;[];[buildRestService|createConfig])
+<-endRefactoring marker->
 /*
  * Copyright 2017-present Open Networking Foundation
  *

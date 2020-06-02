@@ -1,3 +1,5 @@
+->RefactoringNumber->1252817<-PullUpMethod(io.atomix.protocols.raft.session.impl.RaftSessionInvoker.OperationAttempt.CommandAttempt;io.atomix.protocols.raft.session.impl.OperationAttempt;[];[accept])
+<-endRefactoring marker->
 /*
  * Copyright 2017-present Open Networking Foundation
  *

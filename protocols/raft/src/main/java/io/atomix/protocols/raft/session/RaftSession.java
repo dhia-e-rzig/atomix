@@ -1,3 +1,5 @@
+->RefactoringNumber->1252808<-MoveField(io.atomix.protocols.log.roles.AsynchronousReplicator.BackupQueue;io.atomix.protocols.raft.session.RaftSession.EventHolder;[operations];[])
+<-endRefactoring marker->
 /*
  * Copyright 2015-present Open Networking Foundation
  *

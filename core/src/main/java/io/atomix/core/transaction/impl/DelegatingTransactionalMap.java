@@ -1,3 +1,9 @@
+->RefactoringNumber->1252803<-MoveField(io.atomix.cluster.messaging.impl.DefaultClusterEventService.InternalMessage.Type.InternalTopic;io.atomix.core.transaction.impl.DelegatingTransactionalMap;[subscriptions];[])
+->RefactoringNumber->1252813<-MoveField(io.atomix.core.map.impl.AbstractAtomicMapService.MapEntryValue.Type.TransactionScope;io.atomix.core.transaction.impl.DelegatingTransactionalMap;[transactionLog];[])
+->RefactoringNumber->1252815<-DecreaseFieldSecurity(io.atomix.core.transaction.impl.DelegatingTransactionalMap;;[map];[])
+->RefactoringNumber->1252818<-IncreaseFieldSecurity(io.atomix.core.transaction.impl.DelegatingTransactionalMap;;[map];[])
+->RefactoringNumber->1252825<-MoveField(io.atomix.core.transaction.impl.DelegatingTransactionalMap;io.atomix.core.transaction.impl.DelegatingTransactionalSet;[map];[])
+<-endRefactoring marker->
 /*
  * Copyright 2019-present Open Networking Foundation
  *

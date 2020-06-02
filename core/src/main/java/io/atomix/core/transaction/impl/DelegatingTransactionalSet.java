@@ -1,3 +1,9 @@
+->RefactoringNumber->1252805<-MoveField(io.atomix.core.transaction.impl.DelegatingTransactionalSet;io.atomix.cluster.protocol.HeartbeatMembershipProtocol.Type;[set];[])
+->RefactoringNumber->1252806<-MoveField(io.atomix.protocols.raft.protocol.MetadataResponse.Builder;io.atomix.core.transaction.impl.DelegatingTransactionalSet;[sessions];[])
+->RefactoringNumber->1252822<-MoveField(io.atomix.core.AbstractAtomixTest;io.atomix.core.transaction.impl.DelegatingTransactionalSet;[DATA_DIR];[])
+->RefactoringNumber->1252825<-MoveField(io.atomix.core.transaction.impl.DelegatingTransactionalMap;io.atomix.core.transaction.impl.DelegatingTransactionalSet;[map];[])
+->RefactoringNumber->1252826<-MoveField(io.atomix.core.multimap.impl.AbstractAtomicMultimapService.MapEntryValues.NonTransactionalValues.ByteArrayComparator.IteratorContext;io.atomix.core.transaction.impl.DelegatingTransactionalSet;[sessionId];[])
+<-endRefactoring marker->
 /*
  * Copyright 2019-present Open Networking Foundation
  *
